@@ -1,10 +1,10 @@
 {
   "rpc_nodes": [
     "https://api.steemit.com",
-    "https://rpc.buildteam.io",
-    "https://steemd.minnowsupportproject.org",
-    "https://steemd.privex.io",
-    "https://gtg.steem.house:8090"
+    "https://steem.61bts.com",
+    "https://api.steemitdev.com",
+    "https://cn.steems.top",
+    "https://api.justyy.com"
   ],
   "account": "your_witness_account_name",
   "active_key": "your_witness_account_private_active_key",
